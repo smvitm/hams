@@ -1,0 +1,8 @@
+{
+  "name": "Hostel Attendance Management System (HAMS)",
+  "version": "1.0.0",
+  "description": "A WebApp for managing hostel attendance and checkout activities.\n https://github.com/smvitm/hams",
+  "title" : "HAMS API for the WebApp",
+  "title": "HAMS REST APIs",
+  "url" : "https://api.hams/v1"
+}

@@ -1,0 +1,7 @@
+{
+    "require": {
+        "slim/slim": "^3.3",
+        "monolog/monolog": "^1.18",
+        "dogancelik/slim-json": "^0.4.0"
+    }
+}
